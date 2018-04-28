@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "SAMP",
-    "currentPage": "day.html",
+    "currentPage": "night.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -842,6 +842,9 @@
                   "opacity": "1"
                 }
               }
+            },
+            ".mbr-section-title": {
+              "color": "#cccccc"
             }
           },
           "_name": "features18",
